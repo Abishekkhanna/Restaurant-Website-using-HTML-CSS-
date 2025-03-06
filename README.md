@@ -25,7 +25,7 @@ Welcome to **SHEKH Restaurant** – a beautifully crafted restaurant website sho
 
 🔗 [View Website](https://abishekkhanna.github.io/Restaurant-Website-using-HTML-CSS-/)
 ## 📸 Screenshots
- [](https://github.com/Abishekkhanna/Restaurant-Website-using-HTML-CSS-/blob/main/Screenshot%20(85).png)
+ ![screenshot 1](https://github.com/Abishekkhanna/Restaurant-Website-using-HTML-CSS-/blob/main/Screenshot%20(85).png)
 
 ## 🚀 How to Use
 
